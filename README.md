@@ -13,6 +13,10 @@ Welcome to my awesome repository! 🚀
  |_|  |_|\___|_|_|\___/   \/  \/ \___/|_|  |_|\__,_(_)
 ```
 
+## 🚫 Brink / PAR POS haters
+
+Welcome to the Brink / PAR POS haters club! 😤💪
+
 ## ✨ Features
 
 - 🎯 Amazing functionality
