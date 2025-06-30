@@ -30,10 +30,6 @@ Welcome to the Brink / PAR POS haters club! 😤💪
 2. Run the application
 3. Enjoy! 🎉
 
-## 📝 License
-
-This project is open source and available under the [MIT License](LICENSE).
-
 ---
 
 Made with ❤️ and lots of ☕ 
