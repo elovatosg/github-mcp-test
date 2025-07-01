@@ -2,6 +2,18 @@
 
 Welcome to my awesome repository! 🚀
 
+---
+
+## 🧪 About This Repository
+
+This repository is dedicated to testing and experimenting with:
+- 🖱️ [Cursor](https://www.cursor.so/) (AI-powered code editor)
+- 🔗 Model Context Protocol (MCP) integration
+
+Feel free to explore, break things, and try out new ideas here!
+
+---
+
 ## 🎨 ASCII Art
 
 ```
